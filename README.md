@@ -18,8 +18,7 @@ We have to use Bot for Inline Search & ubot for Searching in Channels. So both B
 <br/>
 
 <p align="left">
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/PbO0CD?referralCode=bg3WnK)
-    
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/PbO0CD) 
 </p>
 </details>
 
