@@ -19,13 +19,13 @@ We have to use Bot for Inline Search & ubot for Searching in Channels. So both B
 
 
 <p align="left">
-<a>
-![Deploy on Railway](https://railway.app/button.svg)(https://railway.app/new/template/PbO0CD?referralCode=bg3WnK)
-</a>
+<a href="https://railway.app/new/template/PbO0CD?referralCode=bg3WnK">
+ <img height="30px" src="https://railway.app/button.svg"></a>
 </p>
 </details>
-<p> <a> If You Are Not Deploying....Then Click On Down Image 👇 
-![https://te.legra.ph/file/f58684e0f12d7d524b66e.jpg]((https://railway.app/new/template/PbO0CD?referralCode=bg3WnK)
+<p> If You Are Not Deploying....Then Click On Down Image 👇 
+<a href="https://railway.app/new/template/PbO0CD?referralCode=bg3WnK"
+<img height="90px" width="90px" src="https://te.legra.ph/file/f58684e0f12d7d524b66e.jpg">
 </a>
 </p>
 Credits :- @KashDaYash
