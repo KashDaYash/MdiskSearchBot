@@ -19,8 +19,7 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
 
 <p align="left">
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/PbO0CD?referralCode=bg3WnK)
-     <img height="30px" src="https://railway.app/button.svg">
-  </a>
+    
 </p>
 </details>
 
