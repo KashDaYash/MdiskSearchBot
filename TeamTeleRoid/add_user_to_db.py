@@ -1,4 +1,4 @@
-# (c) @RoyalKrrishna
+# (c) @KashDaYash
 
 from configs import Config
 from handlers.database import db

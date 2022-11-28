@@ -1,6 +1,6 @@
 {
-    "name": "This is Inline Search Bot by @RoyalKrrishna",
-    "description": "This is Inline Channel Messages Search Bot by @RoyalKrrishna",
+    "name": "This is Inline Search Bot by @KashDaYash",
+    "description": "This is Inline Channel Messages Search Bot by @KashDaYash",
     "keywords": [
         "telegram",
         "channel",
@@ -8,9 +8,9 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/RoyalKrrishna/MessageSearchBot",
-    "website": "https://telegram.dog/RoyalKrrishna",
-    "success_url": "https://t.me/mdisksearchroBot",
+    "repository": "https://github.com/KashDaYash/MdiskSearchBot",
+    "website": "https://telegram.dog/KashDaYash",
+    "success_url": "https://t.me/Mdiskbotrobot",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
@@ -41,7 +41,7 @@
         },
         "UPDATES_CHANNEL": {
             "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -100123456789",
-            "required": false
+            "required": true
         },
         "CHANNEL_ID": {
             "description": "Channel ID for Searching Messages."

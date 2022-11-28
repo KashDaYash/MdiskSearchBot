@@ -1,4 +1,4 @@
-# (c) @RoyalKrrishna
+# (c) @KashDaYash
 
 import time
 import string
