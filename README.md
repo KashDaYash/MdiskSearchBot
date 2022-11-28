@@ -31,4 +31,4 @@ We have to use Bot for Inline Search & ubot for Searching in Channels. So both B
 </p>
 </details>
 Credits :-
-![KashDaYash]("https://t.me/KashDaYash")
+<a href="https://t.me/KashDaYash">[KashDaYash]</a>
