@@ -18,8 +18,7 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
 <br/>
 
 <p align="left">
-<a href="https://railway.app/deploy?template=https%3A%2F%2Fgithub.com%2FPredatorHackerzZ%2FMdiskSearchBot"
-">
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/PbO0CD?referralCode=bg3WnK)
      <img height="30px" src="https://railway.app/button.svg">
   </a>
 </p>
