@@ -28,8 +28,8 @@ async def start_handler(_, event: Message):
 	await event.reply_photo("https://telegra.ph/file/165941ae764a56d6d9c89.jpg",
                                 caption=Config.START_MSG.format(event.from_user.mention),
                                 reply_markup=InlineKeyboardMarkup([
-                                    [InlineKeyboardButton("Our Channel", url="https://t.me/DynicaMovies"),
-                                     InlineKeyboardButton("Creator", url="https://t.me/DynicaBots")],
+                                    [InlineKeyboardButton("Our Channel", url="https://t.me/DynicaBots"),
+                                     InlineKeyboardButton("Creator", url="https://t.me/KashDaYash")],
                                     [InlineKeyboardButton("Help", callback_data="Help_msg"),
                                      InlineKeyboardButton("About", callback_data="About_msg")]]))
 
@@ -77,11 +77,11 @@ async def button(bot, cmd: CallbackQuery):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("Our Channel", url="https://t.me/DynicaMovies"),
-						InlineKeyboardButton("Join", url="https://t.me/Technicalcynite")
+						InlineKeyboardButton("Our Channel", url="https://t.me/DynicaBots"),
+						InlineKeyboardButton("Join", url="https://t.me/DynicaBots")
 					],
 					[
-						InlineKeyboardButton("Creator", url="https://t.me/DynicaBots"),
+						InlineKeyboardButton("Creator", url="https://t.me/KashDaYash"),
 						InlineKeyboardButton("Home", callback_data="gohome")
 					]
 				]
@@ -99,7 +99,7 @@ async def button(bot, cmd: CallbackQuery):
 						InlineKeyboardButton("Our Channel", url="https://t.me/DynicaMovies")
 					], 
                                         [
-						InlineKeyboardButton("Owner", url="https://t.me/DynicaBots"),
+						InlineKeyboardButton("Owner", url="https://t.me/KashDaYash"),
 						InlineKeyboardButton("Home", callback_data="gohome")
 					]
 				]
@@ -117,8 +117,8 @@ async def button(bot, cmd: CallbackQuery):
 						InlineKeyboardButton("About", callback_data="About_msg")
 					],
 					[
-						InlineKeyboardButton("Support", url="https://t.me/DynicaBots"),
-						InlineKeyboardButton("Channel", url="https://t.me/DynicaMovies")
+						InlineKeyboardButton("Support", url="https://t.me/DynicaMovies"),
+						InlineKeyboardButton("Channel", url="https://t.me/DynicaBots")
 					]
 				]
 			),
